@@ -30,3 +30,11 @@ p {
 	color: grey;
 	font-size: 21px;
 }
+
+footer {
+	text-align: center;
+}
+
+.copyright {
+	text-align: right;
+}
