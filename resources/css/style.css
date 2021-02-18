@@ -1,6 +1,7 @@
 body {
 	background-color: black;
 	font-family: Verdana;
+	color: white;
 }
 
 header {
@@ -8,11 +9,24 @@ header {
 }
 
 h1 {
-	color: white;
 	font-size: 50px;
 }
 
 a {
 	font-size: 16px;
 	color: aquamarine;
+}
+
+section.contents {
+	text-align: center;
+}
+
+h2 {
+	font-size: 42px;
+	font-weight: 300;
+}
+
+p {
+	color: grey;
+	font-size: 21px;
 }
